@@ -1,0 +1,26 @@
+/* Style for the first div */
+.menu-list:nth-child(1) {
+  background-color: lightgreen; /* Yellow */
+}
+
+/* Style for the second div */
+.menu-list:nth-child(2) {
+  background-color: Lightgrey; /* Blue */
+}
+
+/* Style for the third div */
+.menu:nth-child(3) {
+  background-color: #B6D94C; /* Green */
+}
+
+/* Style for the fourth div */
+.menu-list:nth-child(4) {
+  background-color: #FF6F61; /* Red */
+}
+
+ body{
+   background-image: url("https://img.freepik.com/free-photo/pretty-sombrero-sauces_23-2147740822.jpg?w=1380&t=st=1692303218~exp=1692303818~hmac=71e3a43146fc9b4bbe4f1180cc66ccf47e2815e9cc4e56e8c95332796520cba4");
+   background-size:cover;
+     background-repeat: no-repeat;
+   background-color: rgba(0,0,0,0.5);
+}
